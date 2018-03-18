@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://eburling.github.io/post/2018-03-18-shift-published/</loc>
+      <lastmod>2018-03-18T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://eburling.github.io/publication/shift/</loc>
       <lastmod>2018-03-06T00:00:00+00:00</lastmod>
     </url>
@@ -86,8 +95,9 @@
     
     <url>
     
-      <loc>https://eburling.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <loc>https://eburling.github.io/tags/</loc>
+      <lastmod>2018-03-18T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
